@@ -170,7 +170,7 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_SRI_sketchpad"
-		texturefile = "gfx/leaders/SRI/SRI_sketchpad.dds"
+		name = "GFX_YFC_yellow_face"
+		texturefile = "gfx/leaders/YFC/YFC_yellow_face.dds"
 	}
 }
